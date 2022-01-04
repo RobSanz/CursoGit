@@ -20,6 +20,9 @@
 /* Primera mod */
 #define RETURN 13
 
+/* Segunda mod */
+#define ALGO 45
+
 void   bajas(void),      modif(void),       aviso_baja(void);
 void   elec1(void),      def_panta(void),   def_panta1(int fila,int fila1);
 void   iniz_lista(void), nomina(void),      opcion_imp(void);
