@@ -21,6 +21,9 @@
 /* Para el curso de Git y GitHub */
 #define RETURN 13
 
+/* Tercera mod */
+#define COSA 33
+
 int Abortar(void);
 
 void Inicializar(int *pargc, char *pargv[], char *pfent, char *pfsal,
