@@ -24,6 +24,9 @@
 /* Tercera mod */
 #define COSA 33
 
+/* Tercera mod */
+#define ALGOMAS 65
+
 int Abortar(void);
 
 void Inicializar(int *pargc, char *pargv[], char *pfent, char *pfsal,
