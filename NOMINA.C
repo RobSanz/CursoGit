@@ -23,9 +23,11 @@
 /* Segunda mod */
 #define ALGO 45
 
-
 /* Quinta mod en rama master */
 #define QUINTAMOD 55
+
+/* Tercera mod */
+#define ALGOMAS 65
 
 void   bajas(void),      modif(void),       aviso_baja(void);
 void   elec1(void),      def_panta(void),   def_panta1(int fila,int fila1);
